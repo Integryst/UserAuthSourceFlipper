@@ -4,8 +4,8 @@ Reference: http://wiki.integryst.com/display/products/UserAuthSourceFlipper
 Integryst UserAuthSourceFlipper
 
 # INTENDED PLATFORMS
-Aqualogic User Interaction 6.1 and above
-Oracle WebCenter Interaction 10gR3 and above
+Aqualogic User Interaction 6.1 and above  
+Oracle WebCenter Interaction 10gR3 and above  
 Microsoft SQL Server and Oracle
 
 # DESCRIPTION
