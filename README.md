@@ -5,7 +5,6 @@ Integryst UserAuthSourceFlipper
 
 # INTENDED PLATFORMS
 Aqualogic User Interaction 6.1 and above  
-
 Oracle WebCenter Interaction 10gR3 and above  
 Microsoft SQL Server and Oracle
 
