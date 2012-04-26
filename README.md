@@ -15,4 +15,4 @@ Every user and group in WCI has an object ID.  When a new Authentication Source 
 This project is built with Microsoft Visual Studio 2008.
 
 # LICENSE
-This project is licensed under MIT's open-source license; see license.txt
+This project is licensed under the MIT open-source license; see license.txt
