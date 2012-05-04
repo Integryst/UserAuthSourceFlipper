@@ -1,4 +1,4 @@
-Reference: http://wiki.integryst.com/display/products/UserAuthSourceFlipper
+Reference: http://wiki.integryst.com/display/wci/UserAuthSourceFlipper
 
 # NAME
 Integryst UserAuthSourceFlipper
